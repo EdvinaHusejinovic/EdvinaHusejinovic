@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EdvinaHusejinovic
+- 👋 Hi, I’m Edvina Husejinovic
 - 👀 I’m interested in Web Development and Coding.
 - 🌱 I’m currently learning HTML, CSS and JavaScript.
 - 📫 How to reach me edvinahusejinovic@gmail.com
